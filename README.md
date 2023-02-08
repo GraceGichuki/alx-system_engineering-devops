@@ -1,2 +1,2 @@
 # SYSTEMS ENGINEERING DEVOPS
-1. **Shell Basics**
+* [**0x00-shell_basics**](https://github.com/GraceGichuki/alx-system_engineering-devops/tree/master/0x00-shell_basics)
